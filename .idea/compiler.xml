@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.emakarov.hw02generics" target="17" />
+      <module name="com.emakarov.hw02generics.main" target="17" />
+      <module name="com.emakarov.hw02generics.test" target="17" />
+      <module name="hw04gc.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
