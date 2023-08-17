@@ -6,7 +6,6 @@
       <module name="com.emakarov.hw02generics.main" target="17" />
       <module name="com.emakarov.hw02generics.test" target="17" />
       <module name="hw04gc.test" target="17" />
-      <module name="hw05byte" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
